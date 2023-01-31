@@ -18,6 +18,7 @@ public class average {
         System.out.println("Enter the value of C");
         double c = sc.nextDouble();
         System.out.println("The Average of 3 numbers"+avg(a,b,c));
+        System.out.println("this is the avg sum");
 
 
     }
